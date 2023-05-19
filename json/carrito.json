@@ -1,0 +1,35 @@
+
+{
+  "planes": [
+        
+       
+    {"id": 1, 
+    "producto": "Plan Definición", 
+    "precio": 1500},
+        
+    {"id": 2, 
+    "producto": "Plan Hipertrofia", 
+    "precio": 1500},
+           
+    {"id": 3, 
+    "producto": "Plan Hábitos Saludables", 
+    "precio": 1500},    
+       
+    {"id": 4, 
+    "producto": "Plan Low Carbs", 
+    "precio": 1500},    
+       
+    {"id": 5, 
+    "producto": "Plan Vegetariano", 
+    "precio": 1500},    
+       
+    {"id": 6, 
+    "producto": "Plan Ayuno Intermitente", 
+    "precio": 1500}  
+     
+    ]
+}
+ 
+
+
+    
